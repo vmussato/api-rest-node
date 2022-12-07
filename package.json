@@ -9,7 +9,7 @@
   "author": "Vinicius Mussato",
   "dependencies": {
     "consign": "^0.1.6",
-    "express": "^4.15.3",
+    "express": "^4.18.2",
     "sequelize": "^4.4.2",
     "sqlite3": "^3.1.8"
   },
